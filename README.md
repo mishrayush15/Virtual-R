@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+VirtualR is a new Tech Virtual Reality based industry level website designed for companies that are under the field of Virtual Reality. This website mainly focuses upon the front-end and uses most Recent Tech Stacks such as REACT.JS, TAILWIND.CSS and VITE 😎🧑‍💻💡
